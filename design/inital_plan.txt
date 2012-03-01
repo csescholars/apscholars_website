@@ -1,0 +1,57 @@
+==================Pages==================
+Home/Index
+About
+Material
+Contact
+
+==================Content==================
+---Home/Index---
+Links to other pages
+Splash
+Logo?
+Really brief overview (1-3 sentences)
+
+---About---
+In-depth overview
+Program goals
+Who we are
+Why we're doing this
+Why you should take this course
+
+---Material---
+Example lecture
+"More coming later!" (or to that effect)
+Types of material we're going to have (video lecture, powerpoint, guides, code)
+
+---Contact---
+Contact information
+This primarily exists so we can have three non-home pages (3 is a good number when marketing things)
+
+==================Design==================
+Navigation at top
+
+---Home/Index---
+Hero on front page
+More specific links to other pages underneath
+
+---About---
+Wall of text with headings (Overview / Who we are, why / goals, why you should take it / who you are)
+Possible bar on right side with list of names, emails, etc.
+
+---Material---
+At top mentions work in progress, shpeal about what's coming / what's here now, why its here now
+Has it's own navbar on left???? (For types of material (for now???))
+Links to our content
+Small description of each
+
+---Contact---
+Blurb about question or concerts
+List of emails
+Short and sweet.
+
+
+
+
+
+
+
